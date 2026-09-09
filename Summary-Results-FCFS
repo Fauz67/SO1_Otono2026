@@ -1,0 +1,16 @@
+Tipo de Planificacion: Por Lotes (No apropiativo)
+Nombre del Algoritmo: First-Come, First-Served (Generado por IA)
+Tiempo de Ejecucion de Simulacion: 9535
+Media: 1100
+Desviacion Estandar: 510
+Proceso #	Tiempo CPU	Bloqueo E/S	CPU Completado	Veces Bloqueado
+0		790 (ms)	100 (ms)	790 (ms)	7 veces
+1		1133 (ms)	500 (ms)	1133 (ms)	2 veces
+2		682 (ms)	30 (ms)		682 (ms)	22 veces
+3		1630 (ms)	150 (ms)	1630 (ms)	10 veces
+4		1647 (ms)	290 (ms)	1647 (ms)	5 veces
+5		673 (ms)	110 (ms)	673 (ms)	6 veces
+6		657 (ms)	70 (ms)		657 (ms)	9 veces
+7		962 (ms)	120 (ms)	962 (ms)	8 veces
+8		657 (ms)	600 (ms)	657 (ms)	1 veces
+9		704 (ms)	250 (ms)	704 (ms)	2 veces

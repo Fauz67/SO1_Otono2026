@@ -1,0 +1,16 @@
+Scheduling Type: Batch (Non-preemptive)
+Scheduling Name: First-Come, First-Served (IA Generated)
+Simulation Run Time: 9825
+Mean: 1100
+Standard Deviation: 510
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		1114 (ms)	100 (ms)	1114 (ms)	11 times
+1		905 (ms)	500 (ms)	905 (ms)	1 times
+2		314 (ms)	30 (ms)		314 (ms)	10 times
+3		909 (ms)	150 (ms)	909 (ms)	6 times
+4		438 (ms)	290 (ms)	438 (ms)	1 times
+5		925 (ms)	110 (ms)	925 (ms)	8 times
+6		594 (ms)	70 (ms)		594 (ms)	8 times
+7		1743 (ms)	120 (ms)	1743 (ms)	14 times
+8		1825 (ms)	600 (ms)	1825 (ms)	3 times
+9		1058 (ms)	250 (ms)	1058 (ms)	4 times
